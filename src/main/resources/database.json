@@ -1,0 +1,64 @@
+{
+	"customers": [
+		{
+			"id": "1",
+			"name": "Alan",
+			"order": [
+				{
+					"id": 10,
+					"car": [{
+						"name": "BMW",
+						"color": "Grey",
+						"model": "2020 5 series"
+					}],
+					"phone": [{
+						"model": "iPhone 6s",
+						"year launched": "2016"
+					}]
+				},
+				{
+					"id": 11,
+					"Food": [{
+						"name": "Mexican fires"
+						
+					}],
+					"Shakes": [{
+						"name": "Mango shake"
+						
+					}]
+					
+				}
+			]
+		},
+		{
+			"id": "2",
+			"name": "Elina",
+			"order": [
+				{
+					"id": 20,
+					"clothes": [{
+						"brand": "Tommy Hilfiger",
+						"color": "Navy Blue",
+						"type": "One piece"
+					}],
+					"make-up": [{
+						"brand": "Morphy",
+						"type": "Eye Palette"
+					}]
+				},
+				{
+					"id": 21,
+					"jewellery": [{
+						"name": "Bracelet",
+						"color": "Gold"
+						
+					}],
+					"heels": [{
+						"name": "stilettos",
+						"color": "red"
+					}]
+				}
+			]
+		}
+	]
+}
